@@ -1,3 +1,3 @@
 # AdventOfCode2018
 
-Jumping between Java and Python for solutions
+Day 1 done in Java and python to show the beautiful speed of checking an unordered python set vs a java array
